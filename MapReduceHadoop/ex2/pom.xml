@@ -18,8 +18,8 @@
   <groupId>it.polito.bigdata.hadoop</groupId>
   <artifactId>ex2</artifactId>
   <version>1.0.0</version>
-  <packaging>MapReduceBasicProject</packaging>
-  <name>"Hadoop - MapReduce basic Project"</name>
+  <packaging>jar</packaging>
+  <name>"Hadoop - ex2"</name>
   
   <repositories>
     <repository>
