@@ -1,0 +1,12 @@
+src,dst,linktype
+u1,u2,friend
+u1,u5,friend
+u2,u3,follow
+u3,u2,follow
+u4,u1,friend
+u4,u5,friend
+u5,u1,friend
+u5,u4,friend
+u5,u6,follow
+u6,u3,follow
+u7,u6,follow

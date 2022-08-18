@@ -1,0 +1,9 @@
+src,dst,linktype
+V1,V2,like
+V1,V3,follow
+V1,V4,follow
+V3,V2,follow
+V3,V4,follow
+V5,V2,expertOf
+V2,V4,correlated
+V4,V2,correlated
